@@ -33,6 +33,7 @@ def save_config(token, repos, git_name, git_email):
     with open(CONFIG_FILE, 'w') as f:
         json.dump(config, f, indent=2)
 
+# load_config
 def load_config():
     if not os.path.exists(CONFIG_FILE):
         return None, None, None, None
