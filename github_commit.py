@@ -21,6 +21,7 @@ from typing import List, Tuple, Dict
 # ============= CONFIGURATION ===============
 CONFIG_FILE = "github_real_dates.json"
 
+# save_config
 def save_config(token, repos, git_name, git_email):
     config = {
         "github_token": token,
