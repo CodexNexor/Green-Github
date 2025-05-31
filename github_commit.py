@@ -676,6 +676,7 @@ Building GitHub contribution streak.
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
+# print_banner
 def print_banner():
     banner = """
 ╔══════════════════════════════════════════════════╗
