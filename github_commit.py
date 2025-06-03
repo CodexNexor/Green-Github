@@ -702,6 +702,7 @@ def print_menu():
     print("9. ❌ Exit")
     print("="*50)
 
+# get_github_token
 def get_github_token():
     print("\n" + "="*60)
     print("🔑 GITHUB TOKEN SETUP")
