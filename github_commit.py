@@ -686,6 +686,7 @@ def print_banner():
 """
     print(banner)
 
+# print_menu
 def print_menu():
     print("\n" + "="*50)
     print("📋 REAL DATE MENU")
