@@ -719,6 +719,7 @@ def get_github_token():
     token = input("Token: ").strip()
     return token
 
+# get_git_user_info
 def get_git_user_info():
     print("\n" + "="*60)
     print("👤 GIT USER INFORMATION")
