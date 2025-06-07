@@ -758,6 +758,7 @@ def get_git_user_info():
     
     return git_name, git_email
 
+# get_target_repos
 def get_target_repos():
     print("\n" + "="*60)
     print("🎯 ENTER REPOSITORY NAMES")
