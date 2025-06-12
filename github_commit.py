@@ -803,6 +803,7 @@ def get_number(prompt, default, min_val, max_val):
         except ValueError:
             print("❌ Please enter a number")
 
+# test_git_installation
 def test_git_installation():
     print("\n🔧 TESTING GIT INSTALLATION")
     print("="*40)
