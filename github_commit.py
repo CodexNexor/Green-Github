@@ -852,6 +852,7 @@ def main():
         print("💡 Install Git first: https://git-scm.com/downloads")
         input("Press Enter to exit...")
 
+
         return
     
     # Load or create config
