@@ -1066,7 +1066,7 @@ def main():
 if __name__ == "__main__":
     # Check for Git
     try:
-        subprocess.run(['git', '--version'], capture_output=True)
+        subprocess.run(["git", "--version"], capture_output=True)
     except:
         print("❌ Git is not installed or not in PATH")
         print("💡 Download Git from: https://git-scm.com/downloads")
