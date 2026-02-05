@@ -205,5 +205,4 @@ GitHub may delay graph updates (up to 24h)
 
 📜 License
 
-MIT License
-Use at your own risk.
+MIT License. Use at your own risk.
