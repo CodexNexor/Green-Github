@@ -8,7 +8,7 @@ This project helps you **fill your GitHub contribution graph with green squares*
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 - ✅ Real Git commits (no API spoofing)
 - 📅 Commits with **real past dates**
