@@ -21,7 +21,7 @@ This project helps you **fill your GitHub contribution graph with green squares*
 
 ---
 
-## 🧰 Requirements
+## 📋 Requirements
 
 - **Python 3.8+**
 - **Git**
