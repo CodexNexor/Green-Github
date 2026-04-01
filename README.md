@@ -201,7 +201,7 @@ Default branch assumed: main
 
 Large runs may take 30–90 minutes
 
-GitHub may delay graph updates (up to 24h)
+GitHub may delay graph updates (up to 24 hours)
 
 📜 License
 
