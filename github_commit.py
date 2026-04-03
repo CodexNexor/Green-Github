@@ -18,7 +18,7 @@ import shutil
 import math
 from typing import List, Tuple, Dict
 
-# ================= CONFIG =================
+# ============= CONFIGURATION ===============
 CONFIG_FILE = "github_real_dates.json"
 
 def save_config(token, repos, git_name, git_email):
