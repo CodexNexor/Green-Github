@@ -47,7 +47,7 @@ def load_config():
     except:
         return None, None, None, None
 
-# ================= GIT DATE COMMIT =================
+# =============== GIT DATE COMMIT ENGINE ==============
 class GitDateCommiter:
     def __init__(self, token, repos, git_name, git_email):
         self.token = token
